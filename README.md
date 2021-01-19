@@ -1,0 +1,2 @@
+# Queer Motto API
+
