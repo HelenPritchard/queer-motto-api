@@ -1,8 +1,6 @@
 # Queer Motto API Manual
 <img src="images/key1.jpg" width="600">
 <p>
-<img src="images/key2.png" width="600">
-<p>
 <img src="images/key3.png" width="600">
 
 ## Project title
@@ -225,8 +223,6 @@ There are three levels of refusal logic that point to different living condition
 **EXAMPLE OF A REFUSAL MESSAGE:**
 
 Your motto request is refused. REFUSAL " + refusal_code +": " + "REFUSAL CONTENT in the form of an random array index"`
-
-<img src="images/key3.png" width="600">
 
 <img src="images/refusal1.png" width="600">
 
