@@ -1,10 +1,9 @@
 # Queer Motto API Manual
-![](images/key1.jpg)
-
-![](images/key2.png)
-
-![](images/key3.png)
-
+<img src="images/key1.jpg" width="600">
+<p>
+<img src="images/key2.png" width="600">
+<p>
+<img src="images/key3.png" width="600">
 
 ## Project title
 Queer Motto API: To know exactly how many times to cry
@@ -32,14 +31,18 @@ Thank you; have a nice day!
 
 Generated from the Queer Motto API:
 
-![](images/key2.png)
+<img src="images/key2.png" width="600">
+
 !!need updated image with the upper case
-> Neurode not better </br>
-> Formed to performance </br>
-> System's perfection I'll different </br>
-> Be fusion autonomous </br>
-> Free wosk narrated </br>
-> Are clack political
+
+```html
+Neurode not better
+Formed to performance
+System's perfection I'll different
+Be fusion autonomous
+Free wosk narrated
+Are clack political
+```
 
 ## NAPPY API Specification - r1
 
@@ -73,8 +76,9 @@ REQUIRED
 1. Any incompleted parameters/values will result in generating refusal code and messages.
 
 ---
-`org`
-</br>string  
+
+`org`  
+string  
 REQUIRED
 
 > A unique identity for each organization/user to `generate` mottos <e.g xxxxxxx-xxxxxxxxx-xx-xxxx>.
@@ -103,12 +107,14 @@ The API returns a JSON file.
 ```
 After parsing it will read as:
 
-> Names to activities </br>
-> Force rotation World </br>
-> Sharing female culture profound </br>
-> Be survival after </br>
-> Fact today world </br>
-> Are plants political
+```html
+Names to activities
+Force rotation World
+Sharing female culture profound
+Be survival after
+Fact today world
+Are plants political
+```
 
 **NOTE:**
 
@@ -129,7 +135,8 @@ https://toknowexactlyhowmanytimestocry.net/queermottoAPI/r1/refusal?rq=motto_log
 ```
 
 **EXAMPLE:**
-![](images/log1.png)
+<img src="images/log1.png" width="600">
+
 !!replace another image when the server is ready
 
 | Field | Description           |
@@ -153,7 +160,7 @@ https://toknowexactlyhowmanytimestocry.net/queermottoAPI/r1/refusal?rq=all_log
 ```
 
 **EXAMPLE:**
-![](images/log2.png)
+<img src="images/log2.png" width="600">
 
 | Field | Description |
 | -------- | --------           |
@@ -167,7 +174,7 @@ https://toknowexactlyhowmanytimestocry.net/queermottoAPI/r1/refusal?rq=all_log
 
 ## Queer Motto API
 
-![](https://i.imgur.com/2s3oy4H.jpg)
+<img src="images/sketch01.jpg" width="600">
 
 ### 1. Queer Motto Alliance
 
@@ -183,8 +190,8 @@ We invite users & requesters to think about how we can imagine refusal strategie
 
 ### 2. Seed Text & Diastic Model + ML
 
-<a href="http://siusoon.net/projects/finiteState_gallery_T2a_neato.svg" target="_blank"><img src="https://i.imgur.com/6Tchm5M.png"></a>
-
+<a href="http://siusoon.net/projects/finiteState_gallery_T2a_neato.svg" target="_blank">
+<img src="https://i.imgur.com/6Tchm5M.png" with="600"></a>
 
 ("not for self but for all") -> more for the allied mottos
 
@@ -219,9 +226,9 @@ There are three levels of refusal logic that point to different living condition
 
 Your motto request is refused. REFUSAL " + refusal_code +": " + "REFUSAL CONTENT in the form of an random array index"`
 
-![](https://i.imgur.com/8HPCeXT.png)
+<img src="images/key3.png" width="600">
 
-![](https://i.imgur.com/7MtXHUg.png)
+<img src="images/refusal1.png" width="600">
 
 ## Server info & Tech spec
 - Debian ver 10
