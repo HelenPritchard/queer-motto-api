@@ -238,7 +238,7 @@ Your motto request is refused. REFUSAL " + refusal_code +": " + "REFUSAL CONTENT
 - Python
 - [Text Predictor](https://github.com/gsurma/text_predictor) by Greg Surma (Python, TensorFlow and RNN)
 - MySQL lite
-- Source code [link](https://git.vvvvvvaria.org/ccl/queerAPI)
+- Source code [link](https://gitlab.com/siusoon/queer-motto-api/-/tree/master/queerapi_src)
 
 ## License
 
