@@ -52,7 +52,7 @@ rq=generate&org=refuse-tokenisms-tt-2021
 
 **NOTES:**
 1. Any incompleted parameters/values will result in generating refusal code and messages.
-2. The parameter of `org` is the key authetication parameter, and the example above is for testing only in which we do not guarantee the service level.
+2. The parameter of `org` is the key authetication parameter, and the example above is for TESTING only.
 3. Please contact us for the new `org` value if you want to use this NAPPY API in your projects or organizations.
 
 ### Parameters
