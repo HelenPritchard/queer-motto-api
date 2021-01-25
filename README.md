@@ -197,8 +197,9 @@ Queer API uses a RESTful architecture that is built from manifestos and zines fo
 
 The mottos are written using a "diastic reading through" method a word coined by poet Jackson Mac Low from the Greek words "dia" (through) and "stichos"(a line of writing, a verse) in the 19. Diastic reading is a chance based deterministic method that relies on the use of two texts:
 
-Seed Text
-Source Text
+**Seed Text
+Source Text**
+
 
 To gather the inital collection for the source text the queer service team went urban dreaming, seeking out manifestos that are housed in the radical books shops and libraries in Kings Cross and Euston, places that are historically important for the queer movement. Although sites of historic significance for queer spaces, Kings Cross and Euston are both areas that have been effected significantly by the construction and changing urban fabric of London: Queer night-time spaces have been replaced by the relentless gentrification by tech companies and start-ups. The source text is an growing collection and manifestos can be proposed and entered into the model's listening.
 
