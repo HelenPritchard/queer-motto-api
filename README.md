@@ -139,7 +139,7 @@ https://toknowexactlyhowmanytimestocry.net/queermottoAPI/r1/refusal?rq=motto_log
 ```
 
 **EXAMPLE:**
-<img src="images/log1.png" width="600">
+<img src="images/log3.png" width="600">
 
 !!replace another image when the server is ready
 
