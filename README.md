@@ -124,8 +124,6 @@ Are plants political
 
 *To use the generated text, your end (at the program level) can parse the delimiter `\\n` in which it signifies the next line of the motto.*
 
----
-
 #### 2. **when `rq=motto_log`:**
 
 **Returned format:** JSON
@@ -141,8 +139,6 @@ https://toknowexactlyhowmanytimestocry.net/queermottoAPI/r1/refusal?rq=motto_log
 **EXAMPLE:**
 
 <img src="images/log3.png" width="600">
-
-!!replace another image when the server is ready
 
 | Field | Description           |
 | -------- | --------           |
