@@ -1,7 +1,7 @@
 # Queer Motto API Manual
-<img src="images/key1.jpg" width="1000">
+<img src="images/key1.jpg" width="600">
 <p>
-<img src="images/key3.png" width="1000">
+<img src="images/key3.png" width="600">
 
 ## Project title
 Queer Motto API: To know exactly how many times to cry
@@ -29,7 +29,7 @@ Thank you; have a nice day!
 
 Generated from the Queer Motto API:
 
-<img src="images/key2.png" width="1000">
+<img src="images/key2.png" width="600">
 
 !!need updated image with the upper case
 
@@ -140,7 +140,7 @@ https://toknowexactlyhowmanytimestocry.net/queermottoAPI/r1/refusal?rq=motto_log
 
 **EXAMPLE:**
 
-<img src="images/log3.png" width="1000">
+<img src="images/log3.png" width="600">
 
 !!replace another image when the server is ready
 
@@ -166,7 +166,7 @@ https://toknowexactlyhowmanytimestocry.net/queermottoAPI/r1/refusal?rq=all_log
 
 **EXAMPLE:**
 
-<img src="images/log2.png" width="1000">
+<img src="images/log2.png" width="600">
 
 | Field | Description |
 | -------- | --------           |
@@ -180,7 +180,7 @@ https://toknowexactlyhowmanytimestocry.net/queermottoAPI/r1/refusal?rq=all_log
 
 ## Queer Motto API
 
-<img src="images/sketch01.jpg" width="1000">
+<img src="images/sketch01.jpg" width="600">
 
 ### 1. Queer Motto Alliance
 
@@ -195,7 +195,7 @@ The program also implements computational logics to perform refusal at the infra
 ### 2. Seed Text & Diastic Model + ML
 
 <a href="http://siusoon.net/projects/finiteState_gallery_T2a_neato.svg" target="_blank">
-<img src="https://i.imgur.com/6Tchm5M.png" with="1000"></a>
+<img src="https://i.imgur.com/6Tchm5M.png" with="600"></a>
 
 Queer Motto API uses a RESTful architecture that is built from manifestos and zines for queer, Black, Asian and intersectional life as source text for machine learning and generative processes. Queer Motto API contantly listens for Motto requests. The Mottos are generated through the mis/use of AI-specifically recurrent neural networks - a machine learning model which the Queer Serivce team use to train and process sequences of collective voices. The machine learning algorithm learns its writing style at a character-based level, however instead of a single authorial voice the model is trained on an alliance of queer writers. 
 
@@ -230,7 +230,7 @@ There are three levels of refusal logic that point to different living condition
 
 Your motto request is refused. REFUSAL " + refusal_code +": " + "REFUSAL CONTENT in the form of an random array index"`
 
-<img src="images/refusal1.png" width="1000">
+<img src="images/refusal1.png" width="600">
 
 ## Server info & Tech spec
 - Debian ver 10
