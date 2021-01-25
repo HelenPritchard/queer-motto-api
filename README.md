@@ -298,7 +298,7 @@ published by Constant (2014)
 * [Queer Currents 2020: Queer Manifesto Reading](https://www.mediamatic.net/nl/page/378309/queer-currents-2020-queer-manifesto-reading)
 * [Our HTML Roots and Simple Web APIs](https://www.oreilly.com/library/view/restful-web-clients/9781491921890/ch01.html)
 * [Black Power Naps by Navild Acosta & Fannie Sosa](https://blackpowernaps.black/)
-* Aouragh, Miriyam, Seda Gürses, Helen Pritchard, and Femke Snelting. "The extractive infrastructures of contact tracing apps." Journal of Environmental Media 1, no. 2 (2020): 9-1.
+* Aouragh, Miriyam, Seda Gürses, Helen Pritchard, and Femke Snelting. "[The extractive infrastructures of contact tracing apps.](https://www.ingentaconnect.com/contentone/intellect/jem/2020/00000001/a00102s1/art00010?crawler=true&mimetype=application/pdf)" Journal of Environmental Media 1, no. 2 (2020): 9-1.
 * Snodgrass, Eric, and Soon Winnie. "API practices and paradigms: Exploring the protocological parameters of APIs as key facilitators of sociotechnical forms of exchange." First Monday 24.2 (2019).
 * Gurses, Seda, and Joris Van Hoboken. "Privacy after the agile turn." (2017). (see the draft here: https://osf.io/preprints/socarxiv/9gy73/)
 * Keeling, Kara. "Queer OS." Cinema Journal, vol. 53 no. 2, 2014, p. 152-157. Project MUSE, doi:10.1353/cj.2014.0004.
