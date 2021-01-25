@@ -230,10 +230,10 @@ Your motto request is refused. REFUSAL " + refusal_code +": " + "REFUSAL CONTENT
 
 ## Server info & Tech spec
 - Debian ver 10
-- Web server Nginx
+- Web server Nginx (nginx-1.14.2)
 - Flask Python 
 - [Text Predictor](https://github.com/gsurma/text_predictor) by Greg Surma (Python, TensorFlow and RNN)
-- MySQL lite
+- SQLite (SQLite version 3.27.2)
 - Source code [link](https://gitlab.com/siusoon/queer-motto-api/-/tree/master/queerapi_src)
 
 ## License
