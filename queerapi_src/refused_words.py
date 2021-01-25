@@ -1,0 +1,12 @@
+refWords=[
+"hate",
+"oppression",
+"nationalism",
+"borders",
+"totalitarianism",
+"foreclosing",
+"measure",
+"recognition",
+"evaluation",
+"origins"
+]
