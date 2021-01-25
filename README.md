@@ -298,9 +298,9 @@ published by Constant (2014)
 * [Queer Currents 2020: Queer Manifesto Reading](https://www.mediamatic.net/nl/page/378309/queer-currents-2020-queer-manifesto-reading)
 * [Our HTML Roots and Simple Web APIs](https://www.oreilly.com/library/view/restful-web-clients/9781491921890/ch01.html)
 * [Black Power Naps by Navild Acosta & Fannie Sosa](https://blackpowernaps.black/)
-* Aouragh, Miriyam, Seda Gürses, Helen Pritchard, and Femke Snelting. "[The extractive infrastructures of contact tracing apps.](https://www.ingentaconnect.com/contentone/intellect/jem/2020/00000001/a00102s1/art00010?crawler=true&mimetype=application/pdf)" Journal of Environmental Media 1, no. 2 (2020): 9-1.
 * Snodgrass, Eric, and Soon Winnie. "API practices and paradigms: Exploring the protocological parameters of APIs as key facilitators of sociotechnical forms of exchange." First Monday 24.2 (2019).
 * Gurses, Seda, and Joris Van Hoboken. "Privacy after the agile turn." (2017). (see the draft here: https://osf.io/preprints/socarxiv/9gy73/)
+Aouragh, Miriyam, Seda Gürses, Helen Pritchard, and Femke Snelting. "[The extractive infrastructures of contact tracing apps.](https://www.ingentaconnect.com/contentone/intellect/jem/2020/00000001/a00102s1/art00010?crawler=true&mimetype=application/pdf)" Journal of Environmental Media 1, no. 2 (2020): 9-1.
 * Keeling, Kara. "Queer OS." Cinema Journal, vol. 53 no. 2, 2014, p. 152-157. Project MUSE, doi:10.1353/cj.2014.0004.
 * Barnett, F., Blas, Z., Cárdenas, M., Gaboury, J., Johnson, J. M., & Rhee, M. (2016). [QueerOS: a user’s manual](https://dhdebates.gc.cuny.edu/read/untitled/section/e246e073-9e27-4bb2-88b2-af1676cb4a94). Debates in the digital humanities, 50-59.
 * Keeling, Kara. *Queer times, Black futures*. NYU Press, 2019.
