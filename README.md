@@ -57,6 +57,13 @@ rq=generate&org=refuse-tokenisms-tt-2021
 
 ### Parameters
 
+| Parameters | Value(s) | Description
+| -------- | -------- |-------- |
+| rq   | 'generate', 'motto_log', 'all_log'  | request type
+| org   | *pls contact us for this*   |A unique identity for each organization/user to `generate` mottos <e.g xxxxxxx-xxxxxxxxx-xx-xxxx>|
+
+### Parameter: rq
+
 `rq`  
 string  
 REQUIRED
@@ -73,7 +80,7 @@ REQUIRED
 
 1. Any incompleted parameters/values will result in generating refusal code and messages.
 
----
+### Parameter: org
 
 `org`  
 string  
@@ -85,7 +92,6 @@ REQUIRED
 1. Please contact us for the org value if you want to use this NAPPY API
 2. Any incompleted parameters/values will result in generating refusal code and messages.
 
----
 ### API Response
 
 `200 application/json`
@@ -168,7 +174,7 @@ https://toknowexactlyhowmanytimestocry.net/queermottoAPI/r1/refusal?rq=all_log
 | 3    | Seed Text              |
 | 4    | Refusal code           |
 | 5    | Refusal message        |
-| 6    | Request types          |
+| 6    | Request type          |
 
 ## Queer Motto API
 
@@ -178,36 +184,31 @@ https://toknowexactlyhowmanytimestocry.net/queermottoAPI/r1/refusal?rq=all_log
 
 The project primarily includes two parts: the generative allied mottos and the refusal messages.
 
-The generative mottos are based on manifestos and zines for queer and intersectional life as source text for machine learning and generative processes. The project uses recurrent neural networks to train and process sequences of collective voices, as well as the diastic algorithm to establish a poetic structure. Such a queer model opens up new imaginaries and forgotten language beyond the confines of accurate prediction and effective generalization.
+The generative mottos are based on manifestos and zines for queer and intersectional life as source text for machine learning and generative processes. The project uses recurrent neural networks to train and process sequences of collective voices, as well as the diastic algorithm to establish a poetic structure. 
+
+API's violently arrange life, rendering it portable, modular and as a resource to profit from. It is not the stack that we need to rise up and fight against but the web of API's that stretch from the streets to the sheets. Gam$zon are using their compute power to become the one who make all decisions for life from how they store data about our streets to who decides and recommends who we love and desire - "we refuse this and we are an army of lovers because it is we who know what love is. Desire and lust, too. We invented them (Act up 1990)". With the Queer Motto API we make the source code available and offer to share our compute with you. We invite users & requesters to think about how we can imagine refusal strategies against Big Tech, normative API life and cloud computing--to address the huge inequalities presented by who has the right and resources to compute and to tactically multiply the possibilities for living.
 
 The program also implements computational logics to perform refusal at the infrastructural level, generating refusal messages that are found in our list of queer and intersectional source text.
-
-We invite users & requesters to think about how we can imagine refusal strategies at all levels of our lives. What forms of alternative we can build and make changes collectively.
-
-> keeling on queer as an epistemology
 
 ### 2. Seed Text & Diastic Model + ML
 
 <a href="http://siusoon.net/projects/finiteState_gallery_T2a_neato.svg" target="_blank">
 <img src="https://i.imgur.com/6Tchm5M.png" with="600"></a>
 
-("not for self but for all") -> more for the allied mottos
+Queer Motto API uses a RESTful architecture that is built from manifestos and zines for queer, Black, Asian and intersectional life as source text for machine learning and generative processes. Queer Motto API contantly listens for Motto requests. The Mottos are generated through the mis/use of AI-specifically recurrent neural networks - a machine learning model which the Queer Serivce team use to train and process sequences of collective voices. The machine learning algorithm learns its writing style at a character-based level, however instead of a single authorial voice the model is trained on an alliance of queer writers. 
 
-Queer API uses a RESTful architecture that is built from manifestos and zines for queer, Black, Asian and intersectional life as source text for machine learning and generative processes. Queer API contantly listens for Motto requests. The Mottos are generated through the mis/use of AI-specifically recurrent neural networks - a machine learning model which the Queer Serivce team use to train and process sequences of collective voices. The machine learning algorithm learns its writing style at a character-based level, however instead of a single authorial voice the model is trained on an alliance of queer writers. Such a queer model opens up new imaginaries and forgotten language beyond the confines of accurate prediction and effective generalization. We might understand this type of machine learning as replacing training with listening. A listening which might as Kara Keeling describes be a “generative proposition another world is possible, the insistence that such a world already is here now and it listens, with others, for the poetry, poetry, the refrains, the rhythms, and the noise such a world is making”. (2019, ix)
+This queer model opens up new imaginaries and forgotten language beyond the confines of accurate prediction and effective generalization. We understand this type of machine learning as replacing training with listening. A listening which as Kara Keeling describes is a “generative proposition another world is possible, the insistence that such a world already is here now and it listens, with others, for the poetry, poetry, the refrains, the rhythms, and the noise such a world is making”. (2019, ix)
 
-The mottos are written using a "diastic reading through" method a word coined by poet Jackson Mac Low from the Greek words "dia" (through) and "stichos"(a line of writing, a verse) in the 19. Diastic reading is a chance based deterministic method that relies on the use of two texts:
-
-**Seed Text
-Source Text**
+The mottos are written using a "[diastic reading through](https://poetrydish.blogspot.com/2009/02/forms-of-poetry-diastic.html)" method a chance based deterministic method that relies on the use of two texts:
 
 
+**Source Text**
 To gather the inital collection for the source text the queer service team went urban dreaming, seeking out manifestos that are housed in the radical books shops and libraries in Kings Cross and Euston, places that are historically important for the queer movement. Although sites of historic significance for queer spaces, Kings Cross and Euston are both areas that have been effected significantly by the construction and changing urban fabric of London: Queer night-time spaces have been replaced by the relentless gentrification by tech companies and start-ups. The source text is an growing collection and manifestos can be proposed and entered into the model's listening.
 
-The seed text Not for Self, but for All is used in different parts of the text generation. This seed text, which at first was mistaken for a corporate slogan, is Camden Council’s motto for their municipal identity which hangs prominently next to the Google offices in the heart of the new development of Kings Cross. Recurrent Queer Imaginaries is a call to reclaim queer spaces from corporate neocolonial imaginations, operational injustices and reimagine them differently for all, as a commitment to queer liberation.
+**Seed Text**
+The seed text "Not for Self, but for All" is used in different parts of the text generation. This seed text, which at first was mistaken for a corporate slogan, is Camden Council’s motto for their municipal identity which hangs prominently next to the Google offices in the heart of the new development of Kings Cross. Recurrent Queer Imaginaries is a call to reclaim queer spaces from corporate neocolonial imaginations, operational injustices and reimagine them differently for all, as a commitment to queer liberation.
 
-"In employing such procedures, the writer reads through the source text, taking into the poem each successive unit which has the letters of the source words in corresponding places. The first linguistic unit in the poem begins with the first letter of the first word of the title or other seed, the second unit has the second letter of the first word of the seed in its second place, and so forth, possibly through multiple passes through the source string.
-The motto's are generated from the machine learning model using a diastic algorithm a writing device created by  to establish a poetic structure."
-
+The motto's are generated from the machine learning model using the diastic algorithm and seed text to write through the source text. 
 
 ### 3. Refusal logic
 
@@ -217,9 +218,9 @@ The motto's are generated from the machine learning model using a diastic algori
 | 401   | Infrastructure  & technical issues   |
 | 402   | Every n API request counts & on specific nap dates   |
 
-There are three levels of refusal logic that point to different living conditions and open up other ways of being and actions. For the refusal code 400, it makes explicit [what](link_refusal_words) to refuse, such as "hate", "oppression" and "foreclosing" to consider wider injustice phenoemna. Refusal code 401 is more related to infrastrucure and technical issues, such as incompleted API parameters, server errors and connection problems, and these remind the effort and care that are required to maintain a technocultural system. The last refusal code 402 points to labour conditions, and encourages others to take naps and live restfully. The API will refuse to generate mottos when it exceeds the assigned count (which is 10 at the moment) of the API requests, as well as on specific dates, such as 8th of March (Women strike), 1st of May (Labour strike), and 20th Jul (Strike for Black Lives). With all these checking logics, a refusal message will be displayed instead of a motto.
+There are three levels of refusal logic that point to different living conditions and open up other ways of being and actions. For the refusal code 400, it makes explicit [what](link_refusal_words) to refuse, such as "hate", "oppression" and "foreclosing" to consider wider injustice phenoemna. Refusal code 401 is more related to infrastrucure and technical issues, such as incompleted API parameters, server errors and connection problems, and these remind the effort and care that are required to maintain a technocultural system. The last refusal code 402 points to labour conditions, and encourages others to take naps and live restfully. The API will refuse to generate mottos when it exceeds the assigned count (which is 10 at the moment) of the API requests, as well as on specific dates, such as 9th of March (Women strike), 1st of May (Labour strike), and 20th Jul (Strike for Black Lives). With all these checking logics, a refusal message will be displayed instead of a motto.
 
-[The refusal messages](link_refusal_msgs) are actions and statements that are taken from the queer and feminist source text. They are not tehnical errors, but to call for an attention to our living and societal conditions, that are highly computational, resources-driven and stressful, and to rethink what and why to refuse, and how we might reorganize and queer our collective life as a form of society-level operating system. As elaborated by Kara Keeling, this form of Queer service "facilitates and supports imaginative, unexpected, and ethical relations between and among living beings and the environment" (2014, 154).
+[The refusal messages](link_refusal_msgs) are actions and statements that are taken from the queer and feminist source text. They are not tehnical errors, but call for an attention to our living and societal conditions, that are highly computational, resource-driven and stressful, and to rethink what and why to refuse, and how we might reorganize and queer our collective life as a form of society-level operating system. As elaborated by Kara Keeling, this form of Queer service "facilitates and supports imaginative, unexpected, and ethical relations between and among living beings and the environment" (2014, 154).
 
 **EXAMPLE OF A REFUSAL MESSAGE:**
 
@@ -229,9 +230,9 @@ Your motto request is refused. REFUSAL " + refusal_code +": " + "REFUSAL CONTENT
 
 ## Server info & Tech spec
 - Debian ver 10
-- Web server: NINGX
-- Python and Flask · PyPI
-- Machine learning for text - Python, tensorflow and RNN
+- Web server: Nginx
+- Python
+- [Text Predictor](https://github.com/gsurma/text_predictor) by Greg Surma (Python, TensorFlow and RNN)
 - MySQL lite
 - Source code [link](https://git.vvvvvvaria.org/ccl/queerAPI)
 
