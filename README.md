@@ -139,6 +139,7 @@ https://toknowexactlyhowmanytimestocry.net/queermottoAPI/r1/refusal?rq=motto_log
 ```
 
 **EXAMPLE:**
+
 <img src="images/log3.png" width="600">
 
 !!replace another image when the server is ready
@@ -164,6 +165,7 @@ https://toknowexactlyhowmanytimestocry.net/queermottoAPI/r1/refusal?rq=all_log
 ```
 
 **EXAMPLE:**
+
 <img src="images/log2.png" width="600">
 
 | Field | Description |
