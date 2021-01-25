@@ -1,7 +1,7 @@
 # Queer Motto API Manual
-<img src="images/key1.jpg" width="600">
+<img src="images/key1.jpg" width="1000">
 <p>
-<img src="images/key3.png" width="600">
+<img src="images/key3.png" width="1000">
 
 ## Project title
 Queer Motto API: To know exactly how many times to cry
@@ -29,7 +29,7 @@ Thank you; have a nice day!
 
 Generated from the Queer Motto API:
 
-<img src="images/key2.png" width="600">
+<img src="images/key2.png" width="1000">
 
 !!need updated image with the upper case
 
