@@ -152,7 +152,7 @@ https://toknowexactlyhowmanytimestocry.net/queermottoAPI/r1/refusal?rq=motto_log
 
 **Returned format:** JSON
 
-**Description:** Return all the logs from the server, including various request types, the generated mottos and refusal messages. The fields 0 and 2 would be null when no mottos are generated.
+**Description:** Return all the logs from the server, including various request types, the generated mottos and refusal messages.
 
 **USAGE:**
 
@@ -172,7 +172,7 @@ https://toknowexactlyhowmanytimestocry.net/queermottoAPI/r1/refusal?rq=all_log
 | 3    | Seed Text              |
 | 4    | Refusal code           |
 | 5    | Refusal message        |
-| 6    | Request type          |
+| 6    | Request type - 'unknown', 'generate', 'motto-log', 'all_log' |
 
 ## Queer Motto API
 
