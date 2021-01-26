@@ -31,8 +31,6 @@ Generated from the Queer Motto API:
 
 <img src="images/key4.png" width="600">
 
-!!need updated image with the upper case
-
 ```html
 Not soldered but
 Failures society largely
