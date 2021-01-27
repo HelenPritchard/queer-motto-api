@@ -25,9 +25,7 @@ ALL ACCUMULATED & QUE(E)RY IN REALTIME PROGRAMATICALLY.
 
 Thank you; have a nice day!
 
-## Examples of allied mottos
-
-Generated from the Queer Motto API:
+## Allied mottos - generated from the Queer Motto API
 
 <img src="images/mottoexample.jpg" width="450">
 <br>
