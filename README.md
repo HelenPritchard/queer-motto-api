@@ -33,15 +33,6 @@ Generated from the Queer Motto API:
 <br>
 <img src="images/key4.png" width="600">
 
-```html
-Not soldered but
-Failures society largely
-Styles because all different
-Been queers into
-Fairs confined world
-And all well
-```
-
 ## NAPPY API Specification - r1
 
 **USAGE:**
