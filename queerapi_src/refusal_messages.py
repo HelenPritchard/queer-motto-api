@@ -65,7 +65,6 @@ refusal_messages = [
 "I want queer stories across the spectrum, up and down Brokeback Mountain and every other peak and valley.",
 "Give back, give back, give back is ringing in my years, in my ears, in my year ears.",
 "RENEW, RECOMMIT, RECONNECT in the vortex of freedom to be found in the collective queer imaginary!",
-"We must take back the camera not simply to create our own stories but to prove that there are indeed other ways of being and knowing that challenge the notions of a pathological native, just waiting to be understood before the dominant gaze.",
 "The normality kills me and we are ever so normal.",
 "Slice it up tear it up go baby go rip it up mix it up know baby know.",
 "Imagination, not formulaic narratives.",
