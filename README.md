@@ -210,7 +210,7 @@ The motto's are generated from the machine learning model using the diastic algo
 
 ### 3. Refusal logic
 
-<img src="images/refusal_example.png" width="600">
+<img src="images/Refusal_example.png" width="600">
 
 | Code   | Description |
 -------- | ----------- |
