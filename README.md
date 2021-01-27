@@ -234,7 +234,7 @@ See more: https://gitlab.constantvzw.org/unbound/cc4r
 
 ## All Manifestos
 
-<img src="images/source.png" width="600">
+<img src="images/source.jpg" width="600">
 
 * 80:20 (2011) by Lucia Tkacova and Anetta Mona Chisa
 * 100 ANTI-THESES (1997) by Old Boys Network
