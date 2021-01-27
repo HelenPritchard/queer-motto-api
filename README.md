@@ -1,5 +1,5 @@
 # Queer Motto API Manual
-<img src="images/key1.jpg" width="600">
+<img src="images/key1.jpg" width="800">
 <p>
 <img src="images/key3.png" width="600">
 
@@ -176,7 +176,7 @@ https://toknowexactlyhowmanytimestocry.net/queermottoAPI/r1/refusal?rq=all_log
 
 ## Queer Motto API
 
-<img src="images/sketch01.jpg" width="600">
+<img src="images/page.png" width="600">
 
 ### 1. Queer Motto Alliance
 
