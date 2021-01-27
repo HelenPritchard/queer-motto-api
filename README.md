@@ -217,7 +217,7 @@ Your motto request is refused. REFUSAL " + refusal_code +": " + "REFUSAL CONTENT
 
 <img src="images/refusal1.png" width="450">
 
-## Server info & Tech spec
+## Server info & Tech spec - we must fight for ourselves (no else is going to do it) 
 - Debian ver 10
 - Web server Nginx (nginx-1.14.2)
 - Flask Python 
@@ -225,13 +225,13 @@ Your motto request is refused. REFUSAL " + refusal_code +": " + "REFUSAL CONTENT
 - SQLite (SQLite version 3.27.2)
 - Source code [link](https://gitlab.com/siusoon/queer-motto-api/-/tree/master/queerapi_src)
 
-## License
+## License - just to love each other!
 
 The project is licensed under a Collective Conditions for Re-Use (CC4r)
 
 See more: https://gitlab.constantvzw.org/unbound/cc4r
 
-## All Manifestos in Source Text
+## All Manifestos in Source Text - start soul-searching
 
 <img src="images/source.jpg" width="450">
 
@@ -271,7 +271,7 @@ See more: https://gitlab.constantvzw.org/unbound/cc4r
 * TOWARD A METHEXIC QUEER MEDIA (2013) by José Esteban Muñoz
 * TRANIFEST: QUEER FUTURES (2013) by Julia R. Wallace and Kai M. Green
 
-### newly added/suggestion:
+### Newly added/suggestion - collective queer imaginary
 - https://www.manifestno.com/
 - [A Feminist Server Manifesto](https://areyoubeingserved.constantvzw.org/Summit_afterlife.xhtml)
 published by Constant (2014)
@@ -280,7 +280,7 @@ published by Constant (2014)
 - What Is the University For? A Story from the Dreamtime of a Possible Future - https://press.uchicago.edu/ucp/books/book/distributed/M/bo15571238.html
 - Hamraie, A., & Fritsch, K. (2019). Crip technoscience manifesto. *Catalyst: Feminism, Theory, Technoscience*, 5(1), 1-34
 
-## Suggested readings & projects
+## Suggested readings & projects - and still you wonder why we can't find each other
 
 * [Queer Currents 2020: Queer Manifesto Reading](https://www.mediamatic.net/nl/page/378309/queer-currents-2020-queer-manifesto-reading)
 * [Our HTML Roots and Simple Web APIs](https://www.oreilly.com/library/view/restful-web-clients/9781491921890/ch01.html)
@@ -299,13 +299,13 @@ published by Constant (2014)
 * Snodgrass, Eric, and Soon Winnie. "[API practices and paradigms: Exploring the protocological parameters of APIs as key facilitators of sociotechnical forms of exchange](https://doi.org/10.5210/fm.v24i2.9553)." *First Monday* 24.2 (2019).
 * Soon, Winnie, and Geoff Cox. "Que(e)ry data" in *Aesthetic Programming: A Handbook of Software Studies*. London: Open Humanities Press, 2020.
 
-## Queer Service team
+## Queer Service team - produce more noise
 
 - [Winnie Soon](https://www.siusoon.net)
 - [Helen V. Pritchard](http://www.helenpritchard.info)
 - [Cristina Cochior](http://randomiser.info/)
 - [Nynne Lucca](https://www.nynnelucca.com)
 
-## Credit and Acknowledgements
+## Credit and Acknowledgements - we can be responsible for machines
 
 The project is commissioned by Transmediale in 2020-2021. Thanks to Nora O Murchú, Yidi Tsao, Anky Heidenreich, Holga Heißmeyer, Seda Gürses, Eric Snodgrass, Kara Keeling, an earlier version was imagined with Joasia Krysa [Exhibition Research Lab](https://www.ljmu.ac.uk/research/centres-and-institutes/institute-of-art-and-technology/expertise/exhibition-research-lab)
