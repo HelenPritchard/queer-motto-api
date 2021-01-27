@@ -294,7 +294,7 @@ published by Constant (2014)
 - Haigh, Thomas. "[Software in the 1960s as Concept, Service, and Product](http://tomandmaria.com/Tom/Writing/SoftwareIn60s.pdf)." *IEEE Annals of the History of Computing*. January-March 2002.
 - Kaldrack, Irina & Martina Leeker. *[There is no Software, there are just Services](https://meson.press/wp-content/uploads/2015/06/9783957960566-No-Software-just-Services.pdf)*. Leuphana: meson press, 2015.
 - Snodgrass, Eric, and Soon Winnie. "[API practices and paradigms: Exploring the protocological parameters of APIs as key facilitators of sociotechnical forms of exchange](https://doi.org/10.5210/fm.v24i2.9553)." *First Monday* 24.2 (2019).
-- Soon, Winnie, and Geoff Cox. "Que(e)ry data" in *Aesthetic Programming: A Handbook of Software Studies*. London: Open Humanities Press, 2020.
+- Soon, Winnie, and Geoff Cox. "Que(e)ry data" in *[Aesthetic Programming: A Handbook of Software Studies](http://www.openhumanitiespress.org/books/titles/aesthetic-programming/)*. London: Open Humanities Press, 2020.
 
 ## Queer Service team - produce more noise
 
