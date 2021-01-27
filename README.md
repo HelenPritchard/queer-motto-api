@@ -29,9 +29,9 @@ Thank you; have a nice day!
 
 Generated from the Queer Motto API:
 
-<img src="images/mottoexample.jpg" width="600">
+<img src="images/mottoexample.jpg" width="450">
 <br>
-<img src="images/key4.png" width="600">
+<img src="images/key4.png" width="450">
 
 ## NAPPY API Specification - r1
 
@@ -153,7 +153,7 @@ https://toknowexactlyhowmanytimestocry.net/queermottoAPI/r1/refusal?rq=all_log
 
 **EXAMPLE:**
 
-<img src="images/log4.png" width="600">
+<img src="images/log4.png" width="450">
 
 | Field | Description |
 | -------- | --------           |
@@ -167,7 +167,7 @@ https://toknowexactlyhowmanytimestocry.net/queermottoAPI/r1/refusal?rq=all_log
 
 ## Queer Motto API
 
-<img src="images/page.png" width="600">
+<img src="images/page.png" width="450">
 
 ### 1. Queer Motto Alliance - Dream again last night's dreams
 
@@ -182,7 +182,7 @@ The program also implements computational logics to perform refusal at the infra
 ### 2. Generative propositions 
 
 <a href="http://siusoon.net/projects/finiteState_gallery_T2a_neato.svg" target="_blank">
-<img src="https://i.imgur.com/6Tchm5M.png" with="600"></a>
+<img src="https://i.imgur.com/6Tchm5M.png" with="450"></a>
 
 Queer Motto API uses a RESTful architecture, machine learning and generative processes. Queer Motto API contantly listens for Motto requests. The Mottos are generated through the mis/use of AI-specifically recurrent neural networks - a machine learning model which the Queer Serivce team use to train and process sequences of collective voices. The machine learning algorithm learns its writing style at a character-based level, however instead of a single authorial voice the model is trained on an alliance of queer writers. This queer model opens up new imaginaries and forgotten language beyond the confines of accurate prediction and effective generalization. We understand this type of machine learning as replacing training with listening. A listening which as Kara Keeling describes is a “generative proposition another world is possible, the insistence that such a world already is here now and it listens, with others, for the poetry, poetry, the refrains, the rhythms, and the noise such a world is making”. (2019, ix)
 
@@ -200,7 +200,7 @@ The motto's are generated from the machine learning model using the diastic algo
 
 ### 3. Refusal logic
 
-<img src="images/Refusal_example.png" width="400">
+<img src="images/Refusal_example.png" width="450">
 
 | Code   | Description |
 -------- | ----------- |
@@ -216,7 +216,7 @@ There are three levels of refusal logic that point to different living condition
 
 Your motto request is refused. REFUSAL " + refusal_code +": " + "REFUSAL CONTENT in the form of an random array index"
 
-<img src="images/refusal1.png" width="600">
+<img src="images/refusal1.png" width="450">
 
 ## Server info & Tech spec
 - Debian ver 10
@@ -234,7 +234,7 @@ See more: https://gitlab.constantvzw.org/unbound/cc4r
 
 ## All Manifestos
 
-<img src="images/source.jpg" width="600">
+<img src="images/source.jpg" width="450">
 
 * 80:20 (2011) by Lucia Tkacova and Anetta Mona Chisa
 * 100 ANTI-THESES (1997) by Old Boys Network
