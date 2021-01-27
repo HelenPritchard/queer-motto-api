@@ -27,7 +27,8 @@ Thank you; have a nice day!
 
 ## Examples of allied mottos
 
-<img src="images/mottoexample.jpg" width="600">
+<img src="images/mottoexample.jpg" width="400">
+
 Generated from the Queer Motto API:
 <img src="images/key4.png" width="600">
 
