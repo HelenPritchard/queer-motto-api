@@ -53,6 +53,8 @@ def build_word_dict():
             for item in wordList:
                 if item not in intact:
                     item = item.lower()
+                if item.upper() in (word.upper() for word in intact):
+                    item = item.capitalize()
                 if (len(item)-1) >= y:
                     addKey = str(y) + item[y]
                     if addKey not in toChooseFrom.keys():
@@ -140,8 +142,8 @@ def add_other_db(timestamp,seedText,request_type):
 
 @app.route('/', methods=['GET'])
 def home():
-    return '''<h1>Queer API</h1>
-<p>A prototype API.</p>'''
+    return '''<h1>Queer Motto API: To know exactly how many times to cry</h1>
+<a href="https://gitlab.com/siusoon/queer-motto-api">Queer Motto API Manual</a>'''
 
 
 @app.route('/queermottoAPI/r1/refusal', methods=['GET'])
@@ -173,10 +175,13 @@ def api_args():
         orgVal = str(request.args['org'])
         orgVal = bytes(orgVal, encoding='utf-8')
         if (rqstr == "generate" and orgVal == f1.decrypt(secrettoken1)) or (rqstr == "generate" and orgVal == f2.decrypt(secrettoken2)):
+            # Here we match the token to the organisation
             if orgVal == f1.decrypt(secrettoken1):
                 org = "transmediale"
             elif orgVal == f2.decrypt(secrettoken2):
                 org = "test"
+            # Another token can be added here
+
             # Generate the motto
             api_phrase_str = ''
             for i in range(len(seedTextList)):
