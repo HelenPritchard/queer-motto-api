@@ -1,9 +1,10 @@
-# Queer Motto API Manual
+# Queer Motto API: To know exactly how many times to cry
+
 <img src="images/key1.jpg" width="600">
 <p>
 <img src="images/key3.png" width="600">
 
-## Queer Motto API: To know exactly how many times to cry
+
 
 **Description:**
 
@@ -32,7 +33,7 @@ Generated from the Queer Motto API:
 <br>
 <img src="images/key4.png" width="450">
 
-## [Rest as power](https://blackpowernaps.black/Program): NAPPY API Specification - r1 
+## NAPPY API Specification - r1 
 
 **USAGE:**
 ```html
