@@ -153,7 +153,7 @@ https://toknowexactlyhowmanytimestocry.net/queermottoAPI/r1/refusal?rq=all_log
 
 **EXAMPLE:**
 
-<img src="images/log4.png" width="450">
+<img src="images/log4.png" width="600">
 
 | Field | Description |
 | -------- | --------           |
