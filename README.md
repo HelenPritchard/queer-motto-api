@@ -29,7 +29,7 @@ Thank you; have a nice day!
 
 Generated from the Queer Motto API:
 
-<img src="images/mottoexample.jpg" width="400">
+<img src="images/mottoexample.jpg" width="600">
 <br>
 <img src="images/key4.png" width="600">
 
