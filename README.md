@@ -214,7 +214,7 @@ Your motto request is refused. REFUSAL " + refusal_code +": " + "REFUSAL CONTENT
 
 <img src="images/refusal1.png" width="450">
 
-## Server info & Tech spec - we must fight for ourselves (no else is going to do it) 
+## Server info & Tech spec - we must fight for ourselves (no one else is going to do it) 
 - Debian ver 10
 - Web server Nginx (nginx-1.14.2)
 - Flask Python 
