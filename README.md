@@ -188,7 +188,7 @@ API's violently arrange life, rendering it portable, modular and as a resource t
 
 The program also implements computational logics to perform refusal at the infrastructural level, generating refusal messages that are found in our list of queer and intersectional source text.
 
-### 2. Seed Text, Diastic Model & Generative Machine Learning
+### 2. Generative propositions 
 
 <a href="http://siusoon.net/projects/finiteState_gallery_T2a_neato.svg" target="_blank">
 <img src="https://i.imgur.com/6Tchm5M.png" with="600"></a>
