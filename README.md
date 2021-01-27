@@ -265,7 +265,7 @@ See more: https://gitlab.constantvzw.org/unbound/cc4r
 * OCCUPY THE DREAM (2013) by Barbara Hammer
 * PRELIMINARY NOTES FOR A BLACK MANIFESTO (1975–6) by Rasheed Araeen
 * PROPOSITION FOR A BLACK POWER MANIFESTO (1971) by Ted Joans
-* RADICAL SCHLOCK (2013) by Raquel Gutiérrez
+* RADICAL SCHLOCK (2013) by Raquel Gutiérrez
 * REFUGIA: MANIFESTO FOR BECOMING AUTONOMOUS ZONES (BAZ) (2002) by subRosa
 * STATEMENT ON CENSORSHIP (1973) by Anita Steckel
 * STOMP FOR THE SHADOWS (2013) by Pratibha Parmar
@@ -275,7 +275,7 @@ See more: https://gitlab.constantvzw.org/unbound/cc4r
 * GUERRILLA GIRLS' GUIDE TO BEHAVING BADLY (which you have to do most of the time in the world as we know it) (2010) by GUERRILLA GIRLS
 * THE QUEER NATION MANIFESTO (1990) by Act Up
 * THIS IS NORMAL (2013) by Shu Lea Cheang
-* TOWARD A METHEXIC QUEER MEDIA (2013) by José Esteban Muñoz
+* TOWARD A METHEXIC QUEER MEDIA (2013) by José Esteban Muñoz
 * TRANIFEST: QUEER FUTURES (2013) by Julia R. Wallace and Kai M. Green
 
 ### newly added/suggestion:
@@ -306,7 +306,7 @@ published by Constant (2014)
 - [Winnie Soon](https://www.siusoon.net)
 - [Helen V. Pritchard](http://www.helenpritchard.info)
 - [Cristina Cochior](http://randomiser.info/)
-- [Nynne Lucca](https://www.linkedin.com/in/nynne-lucca-christiansen-6b93021a6/)
+- [Nynne Lucca](https://www.nynnelucca.com)
 
 ## Credit and Acknowledgements
 
