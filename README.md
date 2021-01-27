@@ -21,7 +21,7 @@ Our mandate:
 * networks of pleasure,
 * launch relentless attacks.
 
-ALL ACCUMULATED & QUE(E)RY IN REALTIME PROGRAMATICALLY.
+ALL ACCUMULATED & QUE(E)RRied IN REALTIME PROGRAMATICALLY.
 
 Thank you; have a nice day!
 
