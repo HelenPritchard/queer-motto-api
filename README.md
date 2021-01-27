@@ -232,41 +232,41 @@ See more: https://gitlab.constantvzw.org/unbound/cc4r
 
 <img src="images/source.jpg" width="450">
 
-* 80:20 (2011) by Lucia Tkacova and Anetta Mona Chisa
-* 100 ANTI-THESES (1997) by Old Boys Network
-* 100 IMPOSSIBLE ARTWORKS (2001) by Dora Garcia
-* A CYBORG MANIFESTO (extract) (1991) by Donna Haraway
-* ARCHIVAL PRAXIS (2013) by Jean Carlomusto
-* A STATEMENT OF OUTRAGE AGAINST AMERICAN ASSIMILATIONISTS WHO PRACTICE APPEASEMENT OF HETERO TERROR IN THE WAKE OF A.I.D.S GENOCIDE IN THE UNITED STATES (2013) by Jerry Tartaglia, 2013.
-* BEYOND DOMESTICATION (2013) by Richard Fung
-* BITCH MUTANT MANIFESTO (1996) by VNS Matrix
-* CYBERFEMINIST MANIFESTO FOR THE 21ST CENTURY (1991) by VNS Matrix (Josephine Starrs, Julianne Pierce, Francesca Da Rimini, Virginia Barratt)
-* ECOSEX MANIFESTO (2011) by Elizabeth M. Stephens and Annie M. Sprinkle
-* FEMINIST ART ACTION BRIGADE - MANIFESTO (2003) by Feminist Art Action Brigade (FAAB)!
-* FEMINIST NOSIFICATION OF SOCIAL MEDIA (2019) by Purple Noise
-* FOR HEAT AND LIGHT AND OUTRAGEOUSNESS (2013) by B. Ruby Rich.
-* INTRODUCTORY RANT IN PERFORMANCE OF ASSISTED LIVING: DO YOU HAVE ANY MONEY? (2013) by Yvonne Rainer
-* INTERNATIONALISTS ANSWERS TO A RENTED WORLD! (2013) by Marc Siegel
-* IT’S CALLED DOMINANT CULTURE FOR A REASON (2013) by Matthew Tinkcom
-* MANIFESTO AGAINST THE ‘BLACK CODE’ EDICT OF LOUIS XIV, 1685 by Pélagie Gbaguidi, May - June, 2008
-* MANIFESTO FOR A QUEER SOUTH POLITICS (2016) by Pippa Holloway
-* MANIFESTO (2019) by Pinko Pinko
-* MIGRANT MANIFESTO (2011) by Tania Bruguera and Immigrant Movement International
-* OCCUPY THE DREAM (2013) by Barbara Hammer
-* PRELIMINARY NOTES FOR A BLACK MANIFESTO (1975–6) by Rasheed Araeen
-* PROPOSITION FOR A BLACK POWER MANIFESTO (1971) by Ted Joans
-* RADICAL SCHLOCK (2013) by Raquel Gutiérrez
-* REFUGIA: MANIFESTO FOR BECOMING AUTONOMOUS ZONES (BAZ) (2002) by subRosa
-* STATEMENT ON CENSORSHIP (1973) by Anita Steckel
-* STOMP FOR THE SHADOWS (2013) by Pratibha Parmar
-* SOULPOWER(2013) by Shari Frilot
-* SURVIVAL: STRATEGY (1977) by Larry Mitchell and Ned Asta
-* T TIME A QUEER MEDIA MANIFESTO (2013) by Susan Stryker
-* GUERRILLA GIRLS' GUIDE TO BEHAVING BADLY (which you have to do most of the time in the world as we know it) (2010) by GUERRILLA GIRLS
-* THE QUEER NATION MANIFESTO (1990) by Act Up
-* THIS IS NORMAL (2013) by Shu Lea Cheang
-* TOWARD A METHEXIC QUEER MEDIA (2013) by José Esteban Muñoz
-* TRANIFEST: QUEER FUTURES (2013) by Julia R. Wallace and Kai M. Green
+- 80:20 (2011) by Lucia Tkacova and Anetta Mona Chisa
+- 100 ANTI-THESES (1997) by Old Boys Network
+- 100 IMPOSSIBLE ARTWORKS (2001) by Dora Garcia
+- A CYBORG MANIFESTO (extract) (1991) by Donna Haraway
+- ARCHIVAL PRAXIS (2013) by Jean Carlomusto
+- A STATEMENT OF OUTRAGE AGAINST AMERICAN ASSIMILATIONISTS WHO PRACTICE APPEASEMENT OF HETERO TERROR IN THE WAKE OF A.I.D.S GENOCIDE IN THE UNITED STATES (2013) by Jerry Tartaglia, 2013.
+- BEYOND DOMESTICATION (2013) by Richard Fung
+- BITCH MUTANT MANIFESTO (1996) by VNS Matrix
+- CYBERFEMINIST MANIFESTO FOR THE 21ST CENTURY (1991) by VNS Matrix (Josephine Starrs, Julianne Pierce, Francesca Da Rimini, Virginia Barratt)
+- ECOSEX MANIFESTO (2011) by Elizabeth M. Stephens and Annie M. Sprinkle
+- FEMINIST ART ACTION BRIGADE - MANIFESTO (2003) by Feminist Art Action Brigade (FAAB)!
+- FEMINIST NOSIFICATION OF SOCIAL MEDIA (2019) by Purple Noise
+- FOR HEAT AND LIGHT AND OUTRAGEOUSNESS (2013) by B. Ruby Rich.
+- INTRODUCTORY RANT IN PERFORMANCE OF ASSISTED LIVING: DO YOU HAVE ANY MONEY? (2013) by Yvonne Rainer
+- INTERNATIONALISTS ANSWERS TO A RENTED WORLD! (2013) by Marc Siegel
+- IT’S CALLED DOMINANT CULTURE FOR A REASON (2013) by Matthew Tinkcom
+- MANIFESTO AGAINST THE ‘BLACK CODE’ EDICT OF LOUIS XIV, 1685 by Pélagie Gbaguidi, May - June, 2008
+- MANIFESTO FOR A QUEER SOUTH POLITICS (2016) by Pippa Holloway
+- MANIFESTO (2019) by Pinko Pinko
+- MIGRANT MANIFESTO (2011) by Tania Bruguera and Immigrant Movement International
+- OCCUPY THE DREAM (2013) by Barbara Hammer
+- PRELIMINARY NOTES FOR A BLACK MANIFESTO (1975–6) by Rasheed Araeen
+- PROPOSITION FOR A BLACK POWER MANIFESTO (1971) by Ted Joans
+- RADICAL SCHLOCK (2013) by Raquel Gutiérrez
+- REFUGIA: MANIFESTO FOR BECOMING AUTONOMOUS ZONES (BAZ) (2002) by subRosa
+- STATEMENT ON CENSORSHIP (1973) by Anita Steckel
+- STOMP FOR THE SHADOWS (2013) by Pratibha Parmar
+- SOULPOWER(2013) by Shari Frilot
+- SURVIVAL: STRATEGY (1977) by Larry Mitchell and Ned Asta
+- T TIME A QUEER MEDIA MANIFESTO (2013) by Susan Stryker
+- GUERRILLA GIRLS' GUIDE TO BEHAVING BADLY (which you have to do most of the time in the world as we know it) (2010) by GUERRILLA GIRLS
+- THE QUEER NATION MANIFESTO (1990) by Act Up
+- THIS IS NORMAL (2013) by Shu Lea Cheang
+- TOWARD A METHEXIC QUEER MEDIA (2013) by José Esteban Muñoz
+- TRANIFEST: QUEER FUTURES (2013) by Julia R. Wallace and Kai M. Green
 
 ### Newly added/suggestion - collective queer imaginary
 - https://www.manifestno.com/
