@@ -11,5 +11,8 @@ delWords = [
 "blacks",
 "rulition",
 "suicide",
-"Third"
+"Third",
+"rulition",
+"rape",
+"Virginia",
 ]
