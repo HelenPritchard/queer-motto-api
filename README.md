@@ -291,10 +291,10 @@ published by Constant (2014)
 *Cowan, T.L.  & Jas Rault. Heavy Processing for Digital Materials (More Than A Feeling):[Part II: Central Processing Units: Trans- Feminist and Queer Manifestos and the Feminist Data Manifest-No Playlist](http://www.drecollab.org/cpu/)
 *Dekker, Annet. “Enabling the Future, or How to Survive FOREVER.” In A Companion to Digital Art, edited by Christiane Paul, 553–74. Hoboken, NJ: John Wiley & Sons, Inc, 2016. 
 * Gurses, Seda, and Joris Van Hoboken. "Privacy after the agile turn." (2017). (see the draft here: https://osf.io/preprints/socarxiv/9gy73/)
-* Keeling, Kara. "Queer OS." Cinema Journal, vol. 53 no. 2, 2014, p. 152-157. Project MUSE, doi:10.1353/cj.2014.0004.
-* Keeling, Kara. *Queer times, Black futures*. NYU Press, 2019.
 * Haigh, Thomas. "[Software in the 1960s as Concept, Service, and Product](http://tomandmaria.com/Tom/Writing/SoftwareIn60s.pdf)." *IEEE Annals of the History of Computing*. January-March 2002.
 * Kaldrack, Irina & Martina Leeker. *[There is no Software, there are just Services](https://meson.press/wp-content/uploads/2015/06/9783957960566-No-Software-just-Services.pdf)*. Leuphana: meson press, 2015.
+* Keeling, Kara. "Queer OS." Cinema Journal, vol. 53 no. 2, 2014, p. 152-157. Project MUSE, doi:10.1353/cj.2014.0004.
+* Keeling, Kara. *Queer times, Black futures*. NYU Press, 2019.
 * Snodgrass, Eric, and Soon Winnie. "[API practices and paradigms: Exploring the protocological parameters of APIs as key facilitators of sociotechnical forms of exchange](https://doi.org/10.5210/fm.v24i2.9553)." First Monday 24.2 (2019).
 * Soon, Winnie, and Geoff Cox. "Que(e)ry data" in *Aesthetic Programming: A Handbook of Software Studies*. London: Open Humanities Press, 2020.
 
