@@ -1,5 +1,5 @@
 # Queer Motto API Manual
-<img src="images/key1.jpg" width="800">
+<img src="images/key1.jpg" width="400">
 <p>
 <img src="images/key3.png" width="600">
 
