@@ -313,4 +313,4 @@ published by Constant (2014)
 
 ## Credit and Acknowledgements
 
-The project is commissioned by Transmediale in 2020-2021. Thanks to Nora O Murchú, Yidi Tsao, Anky Heidenreich, Holga Heißmeyer, Seda Gürses, Eric Snodgrass, Kara Keeling, Joasia Krysa, an earlier version was imagined with [Exhibition Research Lab](https://www.ljmu.ac.uk/research/centres-and-institutes/institute-of-art-and-technology/expertise/exhibition-research-lab)
+The project is commissioned by Transmediale in 2020-2021. Thanks to Nora O Murchú, Yidi Tsao, Anky Heidenreich, Holga Heißmeyer, Seda Gürses, Eric Snodgrass, Kara Keeling, an earlier version was imagined with Joasia Krysa [Exhibition Research Lab](https://www.ljmu.ac.uk/research/centres-and-institutes/institute-of-art-and-technology/expertise/exhibition-research-lab)
