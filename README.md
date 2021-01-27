@@ -178,7 +178,7 @@ https://toknowexactlyhowmanytimestocry.net/queermottoAPI/r1/refusal?rq=all_log
 
 <img src="images/page.png" width="600">
 
-### 1. Queer Motto Alliance
+### 1. Queer Motto Alliance - Dream again last night's dreams
 
 The project primarily includes two parts: the generative allied mottos and the refusal messages.
 
@@ -193,16 +193,13 @@ The program also implements computational logics to perform refusal at the infra
 <a href="http://siusoon.net/projects/finiteState_gallery_T2a_neato.svg" target="_blank">
 <img src="https://i.imgur.com/6Tchm5M.png" with="600"></a>
 
-Queer Motto API uses a RESTful architecture that is built from manifestos and zines for queer, Black, Asian and intersectional life as source text for machine learning and generative processes. Queer Motto API contantly listens for Motto requests. The Mottos are generated through the mis/use of AI-specifically recurrent neural networks - a machine learning model which the Queer Serivce team use to train and process sequences of collective voices. The machine learning algorithm learns its writing style at a character-based level, however instead of a single authorial voice the model is trained on an alliance of queer writers. 
-
-This queer model opens up new imaginaries and forgotten language beyond the confines of accurate prediction and effective generalization. We understand this type of machine learning as replacing training with listening. A listening which as Kara Keeling describes is a “generative proposition another world is possible, the insistence that such a world already is here now and it listens, with others, for the poetry, poetry, the refrains, the rhythms, and the noise such a world is making”. (2019, ix)
+Queer Motto API uses a RESTful architecture, machine learning and generative processes. Queer Motto API contantly listens for Motto requests. The Mottos are generated through the mis/use of AI-specifically recurrent neural networks - a machine learning model which the Queer Serivce team use to train and process sequences of collective voices. The machine learning algorithm learns its writing style at a character-based level, however instead of a single authorial voice the model is trained on an alliance of queer writers. This queer model opens up new imaginaries and forgotten language beyond the confines of accurate prediction and effective generalization. We understand this type of machine learning as replacing training with listening. A listening which as Kara Keeling describes is a “generative proposition another world is possible, the insistence that such a world already is here now and it listens, with others, for the poetry, poetry, the refrains, the rhythms, and the noise such a world is making”. (2019, ix)
 
 The mottos are written using a "[diastic reading through](https://poetrydish.blogspot.com/2009/02/forms-of-poetry-diastic.html)" method a chance based deterministic method that relies on the use of two texts:
 
-
 **Source Text**
 
-To gather the inital collection for the source text the queer service team went urban dreaming, seeking out manifestos that are housed in the radical books shops and libraries in Kings Cross and Euston, places that are historically important for the queer movement. Although sites of historic significance for queer spaces, Kings Cross and Euston are both areas that have been effected significantly by the construction and changing urban fabric of London: Queer night-time spaces have been replaced by the relentless gentrification by tech companies and start-ups. The source text is an growing collection and manifestos can be proposed and entered into the model's listening.
+The source text is a compilation of manifestos and zines for queer, Black, Asian and intersectional life. To gather the inital collection for the source text the queer service team went urban dreaming, seeking out manifestos that are housed in the radical books shops and libraries in Kings Cross and Euston, places that are historically important for the queer movement. Although sites of historic significance for queer spaces, Kings Cross and Euston are both areas that have been effected significantly by the construction and changing urban fabric of London: Queer night-time spaces have been replaced by the relentless gentrification by tech companies and start-ups and now [Hs2](https://www.theguardian.com/environment/2021/jan/27/hs2-protesters-hope-to-occupy-euston-tunnel-for-weeks). The source text is an growing collection and manifestos can be proposed and entered into the model's listening.
 
 **Seed Text**
 
