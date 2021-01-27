@@ -168,7 +168,7 @@ https://toknowexactlyhowmanytimestocry.net/queermottoAPI/r1/refusal?rq=all_log
 
 <img src="images/page.png" width="450">
 
-### 1. Queer Motto Alliance - Dream again last night's dreams
+### 1. Queer Motto Alliance - dream again last night's dreams
 
 The project primarily includes two parts: the generative allied mottos and the refusal messages.
 
