@@ -294,10 +294,12 @@ published by Constant (2014)
 * [Black Power Naps by Navild Acosta & Fannie Sosa](https://blackpowernaps.black/)
 * Snodgrass, Eric, and Soon Winnie. "[API practices and paradigms: Exploring the protocological parameters of APIs as key facilitators of sociotechnical forms of exchange](https://doi.org/10.5210/fm.v24i2.9553)." First Monday 24.2 (2019).
 * Gurses, Seda, and Joris Van Hoboken. "Privacy after the agile turn." (2017). (see the draft here: https://osf.io/preprints/socarxiv/9gy73/)
-Aouragh, Miriyam, Seda Gürses, Helen Pritchard, and Femke Snelting. "[The extractive infrastructures of contact tracing apps.](https://www.ingentaconnect.com/contentone/intellect/jem/2020/00000001/a00102s1/art00010?crawler=true&mimetype=application/pdf)" Journal of Environmental Media 1, no. 2 (2020): 9-1.
+* Aouragh, Miriyam, Seda Gürses, Helen Pritchard, and Femke Snelting. "[The extractive infrastructures of contact tracing apps.](https://www.ingentaconnect.com/contentone/intellect/jem/2020/00000001/a00102s1/art00010?crawler=true&mimetype=application/pdf)" Journal of Environmental Media 1, no. 2 (2020): 9-1.
 * Keeling, Kara. "Queer OS." Cinema Journal, vol. 53 no. 2, 2014, p. 152-157. Project MUSE, doi:10.1353/cj.2014.0004.
 * Barnett, F., Blas, Z., Cárdenas, M., Gaboury, J., Johnson, J. M., & Rhee, M. (2016). [QueerOS: a user’s manual](https://dhdebates.gc.cuny.edu/read/untitled/section/e246e073-9e27-4bb2-88b2-af1676cb4a94). Debates in the digital humanities, 50-59.
 * Keeling, Kara. *Queer times, Black futures*. NYU Press, 2019.
+* Haigh, Thomas. "[Software in the 1960s as Concept, Service, and Product](http://tomandmaria.com/Tom/Writing/SoftwareIn60s.pdf)." *IEEE Annals of the History of Computing*. January-March 2002.
+* Kaldrack, Irina & Martina Leeker. *[There is no Software, there are just Services](https://meson.press/wp-content/uploads/2015/06/9783957960566-No-Software-just-Services.pdf)*. Leuphana: meson press, 2015.
 
 ## Queer Service team
 
