@@ -4,8 +4,6 @@
 <p>
 <img src="images/key3.png" width="600">
 
-
-
 “Queer Motto API” software-as-service lets you develop websites and applications to retrieve and display allied mottos, for urban dreams lying in wait, anti-facist guiding principles of living, queer love ethics, authoritarian resistances, unsettle normative computational culture, revolutions, political movements, destruction of smart city infrastructures, class struggles, municipal identities, art practices, joyful engagements and violent direct action.
 
 Our mandate:
@@ -29,7 +27,7 @@ Thank you; have a nice day!
 <br>
 <img src="images/key4.png" width="450">
 
-## NAP and be RESTful: NAPPY API Specification - r1 
+## NAP and be RESTful: NAPPY API Specification - r1
 
 **USAGE:**
 ```html
@@ -78,6 +76,8 @@ REQUIRED
 **NOTE:**
 1. Please contact us for the org value if you want to use this NAPPY API
 2. Any incompleted parameters/values will result in generating refusal code and messages.
+
+---
 
 ### API Response
 
@@ -139,7 +139,7 @@ https://toknowexactlyhowmanytimestocry.net/queermottoAPI/r1/refusal?rq=motto_log
 
 **Returned format:** JSON
 
-**Description:** Return all the logs from the server, including various request types, the generated mottos and refusal messages.
+**Description:** Return all the logs from the server, including various request types, generated mottos and refusal messages.
 
 **USAGE:**
 
@@ -186,7 +186,7 @@ The mottos are written using a "[diastic reading through](https://poetrydish.blo
 
 The seed text "Not for Self, but for All" is used in different parts of the text generation. This seed text, which at first was mistaken for a corporate slogan, is Camden Council’s motto for their municipal identity which hangs prominently next to the Google offices in the heart of the new development of Kings Cross. Queer Motto API is a call to reclaim queer spaces from corporate neocolonial imaginations, operational injustices and reimagine them differently for all, as a commitment to queer liberation.
 
-The motto's are generated from the machine learning model using the diastic algorithm which draws on the seed text to write through the source text. 
+The motto's are generated from the machine learning model using the diastic algorithm which draws on the seed text to write through the source text.
 
 ### 2. Refusal logic - what's beneath the belt and deep inside the heart
 
@@ -198,7 +198,7 @@ The motto's are generated from the machine learning model using the diastic algo
 | 401   | Infrastructure  & technical issues   |
 | 402   | Every n API request counts & on specific nap dates   |
 
-There are three levels of refusal logic that point to different living conditions and open up other ways of being and actions. For the refusal code 400, it makes explicit [what](/queerapi_src/refused_words.py) to refuse, such as "hate", "oppression" and "foreclosing" to consider wider injustice phenomena. Refusal code 401 is more related to infrastrucure and technical issues, such as incompleted API parameters, server errors and connection problems, and these remind the effort and care that are required to maintain a technocultural system. The last refusal code 402 points to labour conditions, and encourages others to take naps and live restfully. The API will refuse to generate mottos when it exceeds the assigned count (which is 10 at the moment) of the API requests, as well as on specific dates, such as 9th of March (Women's strike), 1st of May (Labour strike), and 20th Jul (Strike for Black Lives). With all these checking logics, a refusal message will be displayed instead of a motto. 
+There are three levels of refusal logic that point to different living conditions and open up other ways of being and actions. For the refusal code 400, it makes explicit [what](/queerapi_src/refused_words.py) to refuse, such as "hate", "oppression" and "foreclosing" to consider wider injustice phenomena. Refusal code 401 is more related to infrastrucure and technical issues, such as incompleted API parameters, server errors and connection problems, and these remind the effort and care that are required to maintain a technocultural system. The last refusal code 402 points to labour conditions, and encourages others to take naps and live restfully. The API will refuse to generate mottos when it exceeds the assigned count (which is 10 at the moment) of the API requests, as well as on specific dates, such as 9th of March (Women's strike), 1st of May (Labour strike), and 20th Jul (Strike for Black Lives). With all these checking logics, a refusal message will be displayed instead of a motto.
 
 [The refusal messages](/queerapi_src/refusal_messages.py) are actions and statements that are taken from the queer and feminist source text. They are not tehnical errors, but call for an attention to our living and societal conditions, that are highly computational, resource-driven and stressful, and to rethink what and why to refuse, and how we might reorganize and queer our collective life -- a form of society-level operating system. As elaborated by Kara Keeling, this form of queer operating system service "facilitates and supports imaginative, unexpected, and ethical relations between and among living beings and the environment" (2014, 154).
 
@@ -208,10 +208,10 @@ Your motto request is refused. REFUSAL " + refusal_code +": " + "REFUSAL CONTENT
 
 <img src="images/refusal1.png" width="450">
 
-## Server info & Tech spec - we must fight for ourselves (no one else is going to do it) 
+## Server info & Tech spec - we must fight for ourselves (no one else is going to do it)
 - Debian ver 10
 - Web server Nginx (nginx-1.14.2)
-- Flask Python 
+- Flask Python
 - [Text Predictor](https://github.com/gsurma/text_predictor) by Greg Surma (Python, TensorFlow and RNN)
 - SQLite (SQLite version 3.27.2)
 - Source code [link](https://gitlab.com/siusoon/queer-motto-api/-/tree/master/queerapi_src)
@@ -281,12 +281,12 @@ published by Constant (2014)
 - Barnett, Fiona., Blas, Zach., cárdenas, micha., Gaboury, Jacob., Johnson, Jessica Marie, &  Margaret Rhee.[QueerOS: a user’s manual](https://dhdebates.gc.cuny.edu/read/untitled/section/e246e073-9e27-4bb2-88b2-af1676cb4a94). Debates in the digital humanities, 50-59. (2016).
 - Britton Loren & Helen V. Pritchard. [For CS](https://interactions.acm.org/archive/view/july-august-2020/for-cs). Interactions 27(4): 94-98 (2020)
 - Cowan, T.L.  & Jas Rault. Heavy Processing for Digital Materials (More Than A Feeling):[Part II: Central Processing Units: Trans- Feminist and Queer Manifestos and the Feminist Data Manifest-No Playlist](http://www.drecollab.org/cpu/)
-- Dekker, Annet. “Enabling the Future, or How to Survive FOREVER.” In *A Companion to Digital Art*, edited by Christiane Paul, 553–74. Hoboken, NJ: John Wiley & Sons, Inc, 2016. 
+- Dekker, Annet. “Enabling the Future, or How to Survive FOREVER.” In *A Companion to Digital Art*, edited by Christiane Paul, 553–74. Hoboken, NJ: John Wiley & Sons, Inc, 2016.
 - Gurses, Seda, and Joris Van Hoboken. "Privacy after the agile turn." (2017). (see the draft here: https://osf.io/preprints/socarxiv/9gy73/)
+- Kaldrack, Irina & Martina Leeker. *[There is no Software, there are just Services](https://meson.press/wp-content/uploads/2015/06/9783957960566-No-Software-just-Services.pdf)*. Leuphana: meson press, 2015.
 - Keeling, Kara. "Queer OS." *Cinema Journal*, vol. 53 no. 2, 2014, p. 152-157. Project MUSE, doi:10.1353/cj.2014.0004.
 - Keeling, Kara. *Queer times, Black futures*. NYU Press, 2019.
 - Haigh, Thomas. "[Software in the 1960s as Concept, Service, and Product](http://tomandmaria.com/Tom/Writing/SoftwareIn60s.pdf)." *IEEE Annals of the History of Computing*. January-March 2002.
-- Kaldrack, Irina & Martina Leeker. *[There is no Software, there are just Services](https://meson.press/wp-content/uploads/2015/06/9783957960566-No-Software-just-Services.pdf)*. Leuphana: meson press, 2015.
 - Snodgrass, Eric, and Soon Winnie. "[API practices and paradigms: Exploring the protocological parameters of APIs as key facilitators of sociotechnical forms of exchange](https://doi.org/10.5210/fm.v24i2.9553)." *First Monday* 24.2 (2019).
 - Soon, Winnie, and Geoff Cox. "Que(e)ry data" in *[Aesthetic Programming: A Handbook of Software Studies](http://www.openhumanitiespress.org/books/titles/aesthetic-programming/)*. London: Open Humanities Press, 2020.
 
