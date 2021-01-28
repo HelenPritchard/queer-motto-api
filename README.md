@@ -25,13 +25,13 @@ ALL ACCUMULATED & QUE(E)RIED IN REALTIME PROGRAMATICALLY.
 
 Thank you; have a nice day!
 
-## Allied mottos - generated from the Queer Motto API
+## Undisciplined and vulnerable: Allied mottos generated from the Queer Motto API
 
 <img src="images/mottoexample.jpg" width="450">
 <br>
 <img src="images/key4.png" width="450">
 
-## NAPPY API Specification - r1 
+## NAP and be RESTful: NAPPY API Specification - r1 
 
 **USAGE:**
 ```html
