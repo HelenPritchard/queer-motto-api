@@ -287,7 +287,7 @@ published by Constant (2014)
 - Keeling, Kara. "Queer OS." *Cinema Journal*, vol. 53 no. 2, 2014, p. 152-157. Project MUSE, doi:10.1353/cj.2014.0004.
 - Keeling, Kara. *Queer times, Black futures*. NYU Press, 2019.
 - Haigh, Thomas. "[Software in the 1960s as Concept, Service, and Product](http://tomandmaria.com/Tom/Writing/SoftwareIn60s.pdf)." *IEEE Annals of the History of Computing*. January-March 2002.
-- Pritchard Helen, Jara Rocha, Femke Snelting, Laura Benítez Valero. “Queering Damage”. Ed, Mirna Belina, *Sonic Acts Academy, Magazine (Digital Edition)*. Sonic Acts Press, Amsterdam, 2020.
+- Pritchard Helen, Jara Rocha, Femke Snelting, Laura Benítez Valero. “[Queering Damage](https://sonicacts.com/sashop/product/magazine-sonic-acts-academy-2020-pdf/)”. Ed, Mirna Belina, *Sonic Acts Academy, Magazine (Digital Edition)*. Sonic Acts Press, Amsterdam, 2020.
 - Snodgrass, Eric, and Soon Winnie. "[API practices and paradigms: Exploring the protocological parameters of APIs as key facilitators of sociotechnical forms of exchange](https://doi.org/10.5210/fm.v24i2.9553)." *First Monday* 24.2 (2019).
 - Soon, Winnie, and Geoff Cox. "Que(e)ry data" in *[Aesthetic Programming: A Handbook of Software Studies](http://www.openhumanitiespress.org/books/titles/aesthetic-programming/)*. London: Open Humanities Press, 2020.
 
