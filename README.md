@@ -165,7 +165,7 @@ https://toknowexactlyhowmanytimestocry.net/queermottoAPI/r1/refusal?rq=all_log
 
 <img src="images/page.png" width="450">
 
-Application Programming Interface (API) is a computing interface that enable interactions, or the exchange of data, between software programs and applications. API acts as an interface by representing and defining the possible functions of the exposed components, and it is something commonly used in software industry and platforms.
+Application Programming Interface (API) is a computing interface that enable interactions, or the exchange of data, between software programs and applications. Web APIs, in particular, allow data to be shared, automated, circulated and redistributed in wider computational culture. It is something commonly used in software industry and platforms.
 
 API's violently arrange life, rendering it portable, modular and as a resource to profit from. It is not (just) the stack that we need launch relentless attacks against but the web of API's that stretch from the streets to the sheets. Gam$zon are using their compute power to become the one who make all decisions for life from how they store data about our streets to who decides and recommends who we love and desire - "we refuse this and we are an army of lovers because it is we who know what love is. Desire and lust, too. We invented them (Act up 1990)". With the Queer Motto API we make the source code  available and offer to share our compute with you. We invite users & requesters to think about how we can imagine refusal strategies against Big Tech, normative API life and cloud computing--to address the huge inequalities presented by who has the right and resources to compute and to tactically multiply the possibilities for living.
 
