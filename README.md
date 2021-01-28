@@ -29,6 +29,8 @@ Thank you; have a nice day!
 
 ## NAP and be RESTful: NAPPY API Specification - r1
 
+Queer Motto API creates a space for others to build apps and generate mottos on their website by following our API specification. 
+
 **USAGE:**
 ```html
 https://toknowexactlyhowmanytimestocry.net/queermottoAPI/r1/refusal?
