@@ -294,7 +294,7 @@ published by Constant (2014)
 - Kaldrack, Irina & Martina Leeker. *[There is no Software, there are just Services](https://meson.press/wp-content/uploads/2015/06/9783957960566-No-Software-just-Services.pdf)*. Leuphana: meson press, 2015.
 - Keeling, Kara. "Queer OS." *Cinema Journal*, vol. 53 no. 2, 2014, p. 152-157. Project MUSE, doi:10.1353/cj.2014.0004.
 - Keeling, Kara. *Queer times, Black futures*. NYU Press, 2019.
-- Kulynych, Bogdan, Rebekah Overdorf, Carmela Troncoso, and Seda Gürses. "[https://dl.acm.org/doi/10.1145/3351095.3372853](POTs: protective optimization technologies)." In Proceedings of the 2020 Conference on Fairness, Accountability, and Transparency, pp. 177-188. 2020.
+- Kulynych, Bogdan, Rebekah Overdorf, Carmela Troncoso, and Seda Gürses. "[POTs: protective optimization technologies](https://dl.acm.org/doi/10.1145/3351095.3372853)". In Proceedings of the 2020 Conference on Fairness, Accountability, and Transparency, pp. 177-188. 2020.
 - Haigh, Thomas. "[Software in the 1960s as Concept, Service, and Product](http://tomandmaria.com/Tom/Writing/SoftwareIn60s.pdf)." *IEEE Annals of the History of Computing*. January-March 2002.
 - Pritchard Helen, Jara Rocha, Femke Snelting, Laura Benítez Valero. “[Queering Damage](https://sonicacts.com/sashop/product/magazine-sonic-acts-academy-2020-pdf/)”. Ed, Mirna Belina, *Sonic Acts Academy, Magazine (Digital Edition)*. Sonic Acts Press, Amsterdam, 2020.
 - Snodgrass, Eric, and Soon Winnie. "[API practices and paradigms: Exploring the protocological parameters of APIs as key facilitators of sociotechnical forms of exchange](https://doi.org/10.5210/fm.v24i2.9553)." *First Monday* 24.2 (2019).
