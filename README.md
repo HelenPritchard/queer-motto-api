@@ -4,7 +4,7 @@
 <p>
 <img src="images/key3.png" width="600">
 
-“Queer Motto API” software-as-service lets you develop websites and applications to retrieve and display allied mottos, for urban dreams lying in wait, anti-facist guiding principles of living, queer love ethics, authoritarian resistances, unsettle normative computational culture, revolutions, political movements, destruction of smart city infrastructures, class struggles, municipal identities, art practices, joyful engagements and violent direct action.
+“Queer Motto API” software-as-service lets you develop websites and applications to retrieve and display allied mottos for; urban dreams lying in wait, anti-facist guiding principles of living, queer love ethics, authoritarian resistances, unsettling normative computational culture, revolutions, political movements, destruction of smart city infrastructures, class struggles, municipal identities, art practices, joyful engagements and violent direct action.
 
 Our mandate:
 * undisciplined and vulnerable,
