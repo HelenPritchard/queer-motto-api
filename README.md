@@ -1,4 +1,4 @@
-# Queer Motto API: To know exactly how many times to cry
+# Queer Motto API Manual: To know exactly how many times to cry
 
 <img src="images/key1.jpg" width="600">
 <p>
@@ -186,13 +186,13 @@ The mottos are written using a "[diastic reading through](https://poetrydish.blo
 
 **Source Text**
 
-The source text is a compilation of manifestos and zines for queer, Black, Asian and intersectional life. To gather the inital collection for the source text the queer service team went urban dreaming, seeking out manifestos that are housed in the radical books shops and libraries in Kings Cross and Euston, places that are historically important for the queer movement. Although sites of historic significance for queer spaces, Kings Cross and Euston are both areas that have been effected significantly by the construction and changing urban fabric of London: Queer night-time spaces have been replaced by the relentless gentrification by tech companies and start-ups and now [Hs2](https://www.theguardian.com/environment/2021/jan/27/hs2-protesters-hope-to-occupy-euston-tunnel-for-weeks). The source text is an growing collection and manifestos can be proposed and entered into the model's listening.
+ To gather the inital collection for the source text the queer service team went urban dreaming, seeking out manifestos that are housed in the radical books shops and libraries in Kings Cross and Euston, places that are historically important for the queer movement. Although sites of historic significance for queer spaces, Kings Cross and Euston are both areas that have been effected significantly by the construction and changing urban fabric of London: Queer night-time spaces have been replaced by the relentless gentrification by tech companies and start-ups and now [Hs2](https://www.theguardian.com/environment/2021/jan/27/hs2-protesters-hope-to-occupy-euston-tunnel-for-weeks). The source text is an growing collection and manifestos can be proposed and entered into the model's listening.
 
 **Seed Text**
 
 The seed text "Not for Self, but for All" is used in different parts of the text generation. This seed text, which at first was mistaken for a corporate slogan, is Camden Council’s motto for their municipal identity which hangs prominently next to the Google offices in the heart of the new development of Kings Cross. Queer Motto API is a call to reclaim queer spaces from corporate neocolonial imaginations, operational injustices and reimagine them differently for all, as a commitment to queer liberation.
 
-The motto's are generated from the machine learning model using the diastic algorithm and seed text to write through the source text. 
+The motto's are generated from the machine learning model using the diastic algorithm which draws on the seed text to write through the source text. 
 
 ### 2. Refusal logic - what's beneath the belt and deep inside the heart
 
