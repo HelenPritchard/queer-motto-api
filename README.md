@@ -163,7 +163,7 @@ https://toknowexactlyhowmanytimestocry.net/queermottoAPI/r1/refusal?rq=all_log
 | 5    | Refusal message        |
 | 6    | Request type - 'unknown', 'generate', 'motto-log', 'all_log' |
 
-## Queer Motto Alliance - dream again last night's dreams
+## Queer Motto Alliance - refuse tokenisms
 
 <img src="images/page.png" width="450">
 
@@ -171,7 +171,7 @@ https://toknowexactlyhowmanytimestocry.net/queermottoAPI/r1/refusal?rq=all_log
 
 In Queer Motto API consist of generative allied mottos and the refusal messages to infuse your day. The generative allied mottos are based on manifestos and zines for queer and intersectional life which create a source text for machine learning and generative processes. To generate the Queer Motts, the project uses recurrent neural networks to train and process sequences of collective voices read from the source text, as well as a diastic algorithm to establish a  structure. The program also implements computational logics to perform refusal at the infrastructural level, generating refusal messages that are found in our collection of queer and intersectional source text.
 
-### 1. Generative propositions - a world of pleasure 
+### 1. Generative propositions - dream again last night's dream
 
 <a href="http://siusoon.net/projects/finiteState_gallery_T2a_neato.svg" target="_blank">
 <img src="https://i.imgur.com/6Tchm5M.png" with="450"></a>
@@ -274,7 +274,7 @@ published by Constant (2014)
 - What Is the University For? A Story from the Dreamtime of a Possible Future - https://press.uchicago.edu/ucp/books/book/distributed/M/bo15571238.html
 - Hamraie, A., & Fritsch, K. (2019). Crip technoscience manifesto. *Catalyst: Feminism, Theory, Technoscience*, 5(1), 1-34
 
-## Suggested readings & projects - and still you wonder why we can't find each other
+## Suggested readings & projects - undisciplined and vulnerable
 
 - [Queer Currents 2020: Queer Manifesto Reading](https://www.mediamatic.net/nl/page/378309/queer-currents-2020-queer-manifesto-reading)
 - [Our HTML Roots and Simple Web APIs](https://www.oreilly.com/library/view/restful-web-clients/9781491921890/ch01.html)
@@ -292,7 +292,7 @@ published by Constant (2014)
 - Snodgrass, Eric, and Soon Winnie. "[API practices and paradigms: Exploring the protocological parameters of APIs as key facilitators of sociotechnical forms of exchange](https://doi.org/10.5210/fm.v24i2.9553)." *First Monday* 24.2 (2019).
 - Soon, Winnie, and Geoff Cox. "Que(e)ry data" in *[Aesthetic Programming: A Handbook of Software Studies](http://www.openhumanitiespress.org/books/titles/aesthetic-programming/)*. London: Open Humanities Press, 2020.
 
-## Queer Service team - produce more noise
+## Queer Service team - render computers unusable
 
 - [Winnie Soon](https://www.siusoon.net)
 - [Helen V. Pritchard](http://www.helenpritchard.info)
