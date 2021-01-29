@@ -29,7 +29,7 @@ Thank you; have a nice day!
 
 ## NAP and be RESTful: NAPPY API Specification - r1
 
-Queer Motto API creates a space for others to build apps and generate mottos on their website by following our API specification. 
+Queer Motto API creates a space for others to build apps and generate mottos on their website by following our API specification.
 
 **USAGE:**
 ```html
@@ -167,15 +167,13 @@ https://toknowexactlyhowmanytimestocry.net/queermottoAPI/r1/refusal?rq=all_log
 
 <img src="images/page.png" width="450">
 
+Application Programming Interface (API) is a computing interface that enables interactions, or the exchange of data, between software programs and applications. API exposes data to be shared, automated, circulated and redistributed in wider computational culture, and therefore it acts as an interface by representing and defining the possible functions of the exposed components. API's are commonly used in software industry and platforms by GAPPLE and Gam$zon - Software-as-Service (SoS) to externalise financial risk onto publics -for more on this see [POTs: Protective Optimization Technologies](https://dl.acm.org/doi/10.1145/3351095.3372853).
 
-
-Application Programming Interface (API) is a computing interface that enables interactions, or the exchange of data, between software programs and applications. API exposes data to be shared, automated, circulated and redistributed in wider computational culture, and therefore it acts as an interface by representing and defining the possible functions of the exposed components. API's are commonly used in software industry and platforms by GAPPLE and Gam$zon - Software-as-Service (SoS) to externalise financial risk onto publics -for more on this see [POTs: Protective Optimization Technologies](https://dl.acm.org/doi/10.1145/3351095.3372853). 
-
-Big Tech APIs operate in ways to violently arrange life, rendering it portable, modular and as a resource to profit from. It is not (just) the stack that we need to launch relentless attacks against but the web of API's that stretch from the streets to the sheets. Gam$zon are using their compute power (and they really have a lot compute power, algorithmic power and other resources such as data centres, recommendation engines, dedicated global cable infrastructure, access to private data, thousands of (often exploited) data processing workers at the disposal) to become the one who make all decisions for life from how they store and process data about our streets to who decides and recommends who we love and desire - "we refuse this and we are an army of lovers because it is we who know what love is. Desire and lust, too. We invented them"(Act up 1990). 
+Big Tech APIs operate in ways to violently arrange life, rendering it portable, modular and as a resource to profit from. It is not (just) the stack that we need to launch relentless attacks against but the web of API's that stretch from the streets to the sheets. Gam$zon are using their compute power (and they really have a lot compute power, algorithmic power and other resources such as data centres, recommendation engines, dedicated global cable infrastructure, access to private data, thousands of (often exploited) data processing workers at the disposal) to become the one who make all decisions for life from how they store and process data about our streets to who decides and recommends who we love and desire - "we refuse this and we are an army of lovers because it is we who know what love is. Desire and lust, too. We invented them"(Act up 1990).
 
 With the Queer Motto API we make the source code available, undisciplined and vulnerable to (re)externalise risks and offer to share our compute with you. Queer Motto API creates a space for others to build apps and generate mottos on their website by following our API specification. We invite users & requesters to think about how we can imagine refusal strategies against Big Tech, normative API life and cloud computing--to address the huge inequalities presented by who has the right and resources to compute and to tactically multiply the possibilities for living.
 
-The Queer Motto API consists of generative allied mottos and refusal messages to infuse your day, reorganise your collective life and fight injustices in the present. The generative allied mottos are based on manifestos and zines for queer and intersectional life which create a source text for machine learning and generative processes. To generate the Queer Motto's, the project uses recurrent neural networks to train and process sequences of collective voices read from the source text, as well as a diastic algorithm to establish a  structure. Undisciplined and vulnerable, the program also implements computational logics to perform refusal at the infrastructural level, generating refusal messages that are found in our collection of queer and intersectional source text.
+The Queer Motto API consists of generative allied mottos and refusal messages to infuse your day, reorganise your collective life and fight injustices in the present. The generative allied mottos are based on manifestos and zines for queer and intersectional life which create a source text for machine learning and generative processes. To generate the Queer Mottos, the project uses recurrent neural networks to train and process sequences of collective voices read from the source text, as well as a diastic algorithm to establish a  structure. Undisciplined and vulnerable, the program also implements computational logics to perform refusal at the infrastructural level, generating refusal messages that are found in our collection of queer and intersectional source text.
 
 ### 1. Generative propositions - dream again last night's dream
 
@@ -212,7 +210,7 @@ There are three levels of refusal logic that point to different living condition
 
 **EXAMPLE OF A REFUSAL MESSAGE:**
 
-Your motto request is refused. REFUSAL " + refusal_code +": " + "REFUSAL CONTENT in the form of an random array index"
+"Your motto request is refused. REFUSAL " + refusal_code +": " + (REFUSAL CONTENT in the form of an random array index)
 
 <img src="images/refusal1.png" width="450">
 
@@ -288,7 +286,7 @@ published by Constant (2014)
 - Aouragh, Miriyam, Seda Gürses, Helen V. Pritchard, and Femke Snelting. "[The extractive infrastructures of contact tracing apps.](https://www.ingentaconnect.com/contentone/intellect/jem/2020/00000001/a00102s1/art00010?crawler=true&mimetype=application/pdf)". *Journal of Environmental Media 1*, no. 2 (2020): 9-1.
 - Barnett, Fiona., Blas, Zach., cárdenas, micha., Gaboury, Jacob., Johnson, Jessica Marie, &  Margaret Rhee."[QueerOS: a user’s manual](https://dhdebates.gc.cuny.edu/read/untitled/section/e246e073-9e27-4bb2-88b2-af1676cb4a94)". Debates in the digital humanities, 50-59. (2016).
 - Britton Loren & Helen V. Pritchard. [For CS](https://interactions.acm.org/archive/view/july-august-2020/for-cs). Interactions 27(4): 94-98 (2020)
-- Cowan, T.L.  & Jas Rault. "Heavy Processing for Digital Materials (More Than A Feeling):[Part II: Central Processing Units: Trans- Feminist and Queer Manifestos and the Feminist Data Manifest-No Playlist](http://www.drecollab.org/cpu/)". Digital Research Ethics Collaboratory. 
+- Cowan, T.L.  & Jas Rault. "Heavy Processing for Digital Materials (More Than A Feeling):[Part II: Central Processing Units: Trans- Feminist and Queer Manifestos and the Feminist Data Manifest-No Playlist](http://www.drecollab.org/cpu/)". Digital Research Ethics Collaboratory.
 - Dekker, Annet. “Enabling the Future, or How to Survive FOREVER.” In *A Companion to Digital Art*, edited by Christiane Paul, 553–74. Hoboken, NJ: John Wiley & Sons, Inc, 2016.
 - Gurses, Seda, and Joris Van Hoboken. "Privacy after the agile turn." (2017). (see the draft here: https://osf.io/preprints/socarxiv/9gy73/)
 - Kaldrack, Irina & Martina Leeker. *[There is no Software, there are just Services](https://meson.press/wp-content/uploads/2015/06/9783957960566-No-Software-just-Services.pdf)*. Leuphana: meson press, 2015.
