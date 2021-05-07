@@ -1,4 +1,4 @@
-[TOC]
+[[_TOC_]]
 
 # Queer Motto API Manual: To know exactly how many times to cry
 
