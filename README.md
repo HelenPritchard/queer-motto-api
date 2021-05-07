@@ -1,3 +1,5 @@
+[TOC]
+
 # Queer Motto API Manual: To know exactly how many times to cry
 
 <img src="images/key1.jpg" width="600">
